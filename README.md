@@ -1,6 +1,7 @@
 # MQTTChatHub
 
 **MQTTChatHub** is a lightweight command-line chat application powered by MQTT, designed for seamless communication. Connect to the HiveMQ broker, engage in real-time conversations, and enjoy a simple yet effective chat experience.
+
 **Security Highlights:**
 MQTTChatHub boasts a high level of security, thanks to its lightweight and untraceable message packets exchanged between users. This makes it an ideal choice for secure communication. In comparison to widely-used alternatives like socket.io, MQTTChatHub provides a robust and secure messaging platform. The decentralized nature of MQTT ensures that messages are transmitted efficiently while maintaining a high level of confidentiality.
 
