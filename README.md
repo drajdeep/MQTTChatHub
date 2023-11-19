@@ -30,6 +30,7 @@ python chat_application.py
 - `topic`: MQTT topic for chat communication.
 
 Handle user authentication and security if your HiveMQ broker requires it. Customize the topic, client ID, and username according to your preferences.
+
 Important Note: Ensure that the MQTT topic you choose is unique to avoid conflicts with other users. The `topic` variable in the `chat_application.py` script determines the MQTT topic for chat communication. Set your own topic name in this variable. It is crucial that the topic is not a common term, as it might be used by other users worldwide. Each user in the chat group should use the same topic, but unique `client_id` and `username` values.
 
 
