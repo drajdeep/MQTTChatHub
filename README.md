@@ -20,8 +20,6 @@
 ## Usage
 
 Run the script:
-
-```bash
 python chat_application.py
 
 ## Configuration
